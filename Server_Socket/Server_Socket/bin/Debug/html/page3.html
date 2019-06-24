@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<title>This is a page with attributes</title>
+	</head>
+	<body>
+		<h1><strong>Welcome to the page THREE</strong></h1>
+		<p><b>First name: </b> <span id="fname" ></span></p>
+		<p><b>Last name: </b><span id="lname"></span></p>
+		<script language="JavaScript">
+	function processParams()
+	{
+		var parameters = location.search.substring(1).split("&");
+
+		var temp = parameters[0].split("=");
+		l = unescape(temp[1]);
+		temp = parameters[1].split("=");
+		p = unescape(temp[1]);
+		document.getElementById("fname").innerHTML = l;
+		document.getElementById("lname").innerHTML = p;
+		
+	}
+	processParams();
+	</script>
+		<a href="/index.html">Back</a>
+	</body>
+</html>

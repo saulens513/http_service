@@ -1,0 +1,4 @@
+C:\Users\Kompiuteris\Documents\SharpDevelop Projects\Server_Socket\Server_Socket\bin\Release\Server_Socket.exe.config
+C:\Users\Kompiuteris\Documents\SharpDevelop Projects\Server_Socket\Server_Socket\bin\Release\Server_Socket.exe
+C:\Users\Kompiuteris\Documents\SharpDevelop Projects\Server_Socket\Server_Socket\obj\Release\Server_Socket.csprojResolveAssemblyReference.cache
+C:\Users\Kompiuteris\Documents\SharpDevelop Projects\Server_Socket\Server_Socket\obj\Release\Server_Socket.exe
